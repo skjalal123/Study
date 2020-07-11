@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="@string/main"/>
+
+    <item
+        android:id="@+id/WishList"
+        android:icon="@drawable/wishlist"
+        android:title="@string/wishlist"/>
+
+    <item
+        android:id="@+id/myCourse"
+        android:icon="@drawable/ic_play_circle_filled_black_24dp"
+        android:title="@string/my_course"/>
+
+    <item
+        android:id="@+id/search_button"
+        android:icon="@drawable/search_black"
+        android:title="@string/search"/>
+
+    <item
+        android:id="@+id/myAccount"
+        android:icon="@drawable/account"
+        android:title="@string/my_account"/>
+
+</menu>

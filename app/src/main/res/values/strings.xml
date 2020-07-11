@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Tech Seed</string>
+    <string name="hint_id">Email or phone</string>
+    <string name="Log_in">Log In</string>
+    <string name="email_phone_or_username">Email, Phone or Username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="creat_account">Creat Account</string>
+    <string name="forget_password">forget password</string>
+    <string name="my_account">My Account</string>
+    <string name="search">Search</string>
+    <string name="my_course">my Course</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="feature">Feature</string>
+    <string name="categories">Categories</string>
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="set_text">Set Text</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="users_name">Users Name</string>
+    <string name="reset_Password">Reset Password</string>
+    <string name="player">Player</string>
+    <string name="Setting">Setting</string>
+    <string name="term_and_condition">Term and Condition</string>
+    <string name="email_id">Email Id</string>
+    <string name="setting">Setting</string>
+    <string name="developed_by_jocasta">Developed By JOCASTA</string>
+    <string name="gender">gender</string>
+    <string name="account">Account</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="not_registered_creat_account">Not Registered?? Creat Account</string>
+    <string name="active_course">Active Course</string>
+    <string name="complete_course">Complete Course</string>
+    <string name="todo">TODO</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="main">Main</string>
+    <string name="title_activity_bottom">bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_instructor_log_in">InstructorLogIn</string>
+    <string name="banner">Banner</string>
+    <string name="title">Title</string>
+    <string name="author">Author Name</string>
+    <string name="price">Price</string>
+    <string name="courselist">Course List</string>
+    <string name="no_course_available">No Course Available</string>
+    <string name="update">UPDATE</string>
+    <string name="title_of_video">Title of Video</string>
+    <string name="author_name">Author Name</string>
+    <string name="level">level</string>
+    <string name="publish_date">Publish Date</string>
+    <string name="duration">Duration</string>
+    <string name="rating">rating</string>
+</resources>
